@@ -21,4 +21,6 @@ public class Solution {
                 return rightDepth + 1;
         }
     }
+    
+    public void Solution();
 }
