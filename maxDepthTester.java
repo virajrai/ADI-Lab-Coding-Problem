@@ -6,10 +6,10 @@ public class maxDepthTester{
         root.right = new TreeNode(3);
         root.left.left = new TreeNode(4);
         
-        solution sol = new solution();
+        Solution solution = new Solution();
         
         //The max should be 3
-        System.out.println(sol.maxDepth(root));
+        System.out.println(solution.maxDepth(root));
     }
     
 }
